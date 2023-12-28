@@ -83,6 +83,7 @@ Here we aim to predict the median value of owner-occupied homes in Boston using 
 | LSTAT    | Percentage of lower-status population. Higher values represent a higher percentage of the population in lower socio-economic status. |
 | MEDV     | Median value of owner-occupied homes in $1000s (the target variable). |
 
+![Analysis](images\analysis.png)
 
 ### Model Details
 
