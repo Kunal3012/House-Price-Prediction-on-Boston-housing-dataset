@@ -1,3 +1,4 @@
+
 import pickle
 import pandas as pd
 
@@ -43,3 +44,4 @@ predicted_MEDV = model.predict(input_df)
 
 # Display the predicted median value of owner-occupied homes
 print(f"The predicted median value of owner-occupied homes is: {predicted_MEDV[0]}")
+
